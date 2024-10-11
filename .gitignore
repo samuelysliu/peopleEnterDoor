@@ -1,0 +1,8 @@
+coco.names
+deploy.prototxt
+*.mp4
+res10_300x300_ssd_iter_140000.caffemodel
+yolo11n.pt
+yolov4.cfg
+yolov4.weights
+yolov8n.pt
